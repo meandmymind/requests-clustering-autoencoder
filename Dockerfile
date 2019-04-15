@@ -1,16 +1,23 @@
 FROM jupyter/tensorflow-notebook
 
-MAINTAINER lainisourgod
+LABEL maintainer="lainisourgod"
 
 USER root
 
 RUN apt-get update \
 && apt-get upgrade -y \
-&& apt-get autoremove -y \
-&& pip install joblib scikit-learn
+&& apt-get autoremove -y
+
+RUN pip install joblib==0.13.2 \
+                scikit-learn==0.19.2 \
+                flask
 
 USER 1000
 
 COPY . .
 
-ENTRYPOINT ["jupyter", "notebook"]
+ENV PYTHONPATH "${PYTHONPATH}:/)"
+
+EXPOSE 5000
+
+ENTRYPOINT ["python3", "server/app.py"]
