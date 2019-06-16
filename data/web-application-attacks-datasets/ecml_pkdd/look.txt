@@ -1,0 +1,500 @@
+Start - Id: 396
+class: Valid
+GET /7eF7yi/iARSu.gif?ury=uxsrm&znqF-tmpXehtnu=b-qtvi&GwLlink3VkUd=glOdalar&aawrpse=srerd&f8lecTotEclpt=9918292&Qusrl6te1dvP=tiooPDi%27waveval%27%2B&iErnw=18&ginensn=0c&catUCseVAbimgDq=all HTTP/1.1
+Host: 135.135.132.250:80
+Connection: DtysSttf
+Accept: application/rtf;q=0.2
+Accept-Charset: windows-1258;q=0.3, cp-932, x-mac-greek;q=0.7
+Accept-Encoding: 
+Accept-Language: a-ekpaWsyf;q=0.7
+Cache-Control: only-if-cached
+Client-ip: 80.119.213.130
+Cookie: h0must1a9utettE=967;mcDX.11V4=329;aangOixbW8m2e=7727397;voetdas=yxOdter d
+Cookie2: $Version="619"
+Date: Thu, 01 Apr 04 12:31:43 UTC
+ETag: W/"AwOLswOcN9pF3VDj7D3g"
+Expect: 100-continue
+From: rPtoKwaw@nOdai.biz
+If-Modified-Since: Thu, 07 Jun 07 17:22:18 CET
+If-Unmodified-Since: Fri, 29 Aug 08 14:39:22 CET
+If-Match: "PHx_aFUk5Db_t1OCvIB"
+If-None-Match: "v_lh2V86ugrKaklF"
+If-Range: Wed, 29 Dec 04 17:29:02 UTC
+Max-Forwards: 7621
+MIME-Version: 2.4
+Pragma: dwt='etNse'
+Proxy-Authorization: Digest nonce
+Authorization: rtrE muAs=n5u1daO
+Range: 63476-77033,-529,5-
+Referer: /edmisao/tuOVmtor/2b5non6U/en0tlttr/5nsban.asp
+TE: gzip;q=0.1,trailers,deflate
+Trailer: Range
+User-Agent: Mozilla/9.7 (Machintosh; U; PPC 1.7; dp-Bc; rv:2.1.0) Gecko/86586963
+UA-CPU: Sparc
+UA-Disp: 6142,708,32
+UA-OS: Win9x
+UA-Color: color16
+UA-Pixels: 7545x2141
+Via: 1.6 www.roet.gif, HTTP/6.7 231.218.91.74, 9.2 167.80.103.85
+Transfer-Encoding: gzip
+Upgrade: sajgfN/7.8, n2wam/2.4
+Warning: 939 www.gttieo.css "to6kdeaosjuise9qIc" "Sun, 24 Oct 04 22:57:30 GMT"
+X-Forwarded-For: 16.205.89.126
+X-Serial-Number: 5470041402
+----: -------------
+~~~~~: ~~~~~~~~~~~~~~
+
+null
+
+End - Id: 396
+Start - Id: 29006
+class: Valid
+GET /tiarinoont.gif?xw0guF.9execcatE=alYD8fvO3a&styleLOOfmUqV7e4=suFJtnb%40&iiialk75oSwku=9591&SVRE=i%5Cna&st9gr=i0&lin=fHrdhmhAs8dnrore-%7Err&xWGechoKHcmdJ=l2nsneiAahetrbem HTTP/1.1
+Host: www.Wnueefs.gov
+Connection: close
+Accept: video/mpeg;q=0.1, audio/*;q=0.3, video/*
+Accept-Charset: *
+Accept-Encoding: *;q=0.5
+Accept-Language: hs-jAkeeTnt;q=0.0
+Cache-Control: li='RRg'
+Client-ip: 166.77.234.206
+Cookie: estrqrjacip4=dyT;sr=Liimn&%3metanwe%sk;cbi2a1e=i
+Cookie2: $Version="422"
+Date: Wed, 02 Feb 05 11:37:16 GMT
+ETag: W/"5G1CsBdFle22Xtr"
+Expect: ddel2e
+From: e8z2rsr@hhsecdIax.be
+If-Modified-Since: Thu, 25 Sep 08 16:45:11 GMT
+If-Unmodified-Since: Tue, 05 Aug 08 16:26:23 CET
+If-Match: *
+If-None-Match: "MGME.zGjFdDRsbpu"
+If-Range: "miNNokOItGmAoCseU"
+Max-Forwards: 3
+MIME-Version: 2.4
+Pragma: no-cache
+Proxy-Authorization: Digest response="EC6d0CbF02ef249C8C7a8dB7212EAfce"
+Authorization: Basic cGlmYW9vamk6aWFoZXNtbDk=
+Range: 2318-,-7
+Referer: /ft7stcc/eeLso/its2h2lb.php3
+TE: trailers,trailers
+Trailer: If-Range
+User-Agent: ttezylhu/3.3.0.7.0
+UA-CPU: MIPS
+UA-Disp: 023,422,32
+UA-OS: Win95
+UA-Color: color16
+UA-Pixels: 694x8428
+Via: FTP/2.4 170.45.114.156:889, 6.2 www.aqezoS.shtml
+Transfer-Encoding: identity
+Upgrade: rpq0t/1.3, h5yess/6.6
+Warning: 848 www.1zbi.js "tteneag" 
+X-Forwarded-For: 234.170.143.94
+X-Serial-Number: 055751373307057
+----: --------------------
+~~~~~: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+null
+
+End - Id: 29006
+Start - Id: 10408
+class: Valid
+GET /qshoogceanliI/s9PWe/4nnGZM/01tIlesirftoN/_tR1Iv2uexeccopyWgYmy/nr3laegE/pwYfTLK/dLVZCY.0xGpdKe/etd9nwishy.cgi?rchildGTvdkV=axD8Inullo3ab&sO=49569&btahs=ey&servicesVw-k6Z=584601&OWoQh-aTIo=ygblgy&yieb5tdrzoe6vel=70&stHtmtgdfne5R=nwBlkOK&aporKaf=264423893 HTTP/1.0
+Host: 149.85.211.20:80
+Connection: odtw
+Accept: application/zip;q=0.0
+Accept-Charset: *
+Accept-Encoding: *;q=0.2
+Accept-Language: *;q=0.0
+Cache-Control: max-stale
+Client-ip: 125.236.129.149
+Cookie: styleAbids7C=5472;nmsrEsedntu=passwdeg Ai ;brl0meeyte6=oh4kbyo;SIlezcnraeai=1453066444;dq=01719
+Cookie2: $Version="0"
+Date: Tue, 16 Dec 08 22:27:27 GMT
+ETag: "GfcGhNtO9Dp@cKZXz@J"
+Expect: 100-continue
+From: nyat1i@2oierendva.de
+If-Modified-Since: Wed, 07 Nov 07 13:07:19 GMT
+If-Unmodified-Since: Sat, 21 Apr 07 24:48:33 GMT
+If-Match: *
+If-None-Match: "g6JHGBxw-3oT._y@"
+If-Range: Sat, 05 Jul 08 12:47:50 CET
+Max-Forwards: 749
+MIME-Version: 2.8
+Pragma: noe='eJ'
+Proxy-Authorization: 2tht ejer=oT7xhiau
+Authorization: NTLM ZXRvZXdzc2VtYTdlbWY4dHBtcnZlT2M1bGZyT2l1dG5yaFNuYXJuZWFBaQ==
+Range: 5-355295,61313-1,05930-37268
+Referer: http://UnOsnp1.biz/nxstu/lAhff/oh6cean/tstol.sh
+TE: chunked,trailers,trailers
+Trailer: From
+User-Agent: Mozilla/0.7 (X11; U; Solaris 7.7; s4-0h; rv:7.2.6) Gecko/63303432
+UA-CPU: StrongARM
+UA-Disp: 1729,6694,8
+UA-OS: Windows 95
+UA-Color: color16
+UA-Pixels: 552x911
+Via: 3.2 119.115.143.19
+Transfer-Encoding: identity
+Upgrade: eso/3.5, ddji/0.2, bfcnj/3.8, ofsuw6/8.7
+Warning: 317 www.nwo2aaL.html "hrhexamatrte3elRbtn" 
+X-Forwarded-For: 248.234.188.76
+X-Serial-Number: 664473
+----: --------------------------------------
+~~~~~: ~~~~~~~~~~~~~~
+
+null
+
+End - Id: 10408
+Start - Id: 22128
+class: Valid
+GET /si8le5uE6sa8ng/cLdO_3i1Htyu3@/s6atK-wx9lwD/krB.fIj9ICkD/e_aXKPo2pc/4hlikexxQ3LBJs8/Vni8Hwindow.openaLYWS0sZf/nbqNGu.Fovl/ieEsUAzAIXZwK7xB6a/Oxd.jpeg?Tr2WikBxvarNF=amochaeeinputssiwhttpwYo+k%3Foetce&1isHe=%27&bPU0raslp=mf&cEoA=rinsTe%25dhAynhh&uteoaeotzrusemw=+u%26ngp6luat%28&oNeoenbt2gU=w-GMTQpi&YzTy4D5=ecORdqeoebqaj5ohl&esdvkdjn=aw8cnhaeto&ruw2tl8mldglota=tiGUS&iLneK3dx00hc=828829 HTTP/1.1
+Host: 141.16.235.50
+Connection: kehr2m
+Accept: application/rtf;q=0.1, text/*, video/*
+Accept-Charset: *;q=0.6
+Accept-Encoding: *
+Accept-Language: *;q=0.1
+Cache-Control: ss=m
+Client-ip: 204.187.68.18
+Cookie: d9itunCcosS=3hwk;Gmrwindow.openkIWQCL.t=teie HaiWba[;s;rnrglir=5055086;3vThiE2cicr=aohkd0errtf9hdec
+Cookie2: $Version="10"
+Date: Thu, 02 Sep 04 24:00:49 GMT
+ETag: "Eo5FYzDFb7Xyw5IhtlZO"
+Expect: 100-continue
+From: ers7@stiihe.com
+If-Modified-Since: Mon, 12 Sep 05 21:34:47 GMT
+If-Unmodified-Since: Thu, 14 Dec 06 08:44:16 CET
+If-Match: *
+If-None-Match: "YYHnrLuic6Ng0Vh"
+If-Range: "PcFVYs_cVMa5fDPK"
+Max-Forwards: 203
+MIME-Version: 1.6
+Pragma: no-cache
+Proxy-Authorization: Basic ZGduczh0Tm86czhlZg==
+Authorization: Digest realm
+Range: 1976-
+Referer: /leei.php3
+TE: gzip;q=0.0,trailers,trailers
+Trailer: Transfer-Encoding
+User-Agent: tlFVhYR http://www.uiyaw.it
+UA-CPU: x86
+UA-Disp: 2956,8446,32
+UA-OS: Windows NT
+UA-Color: color8
+UA-Pixels: 221x4182
+Via: HTTP/9.9 225.133.54.153, uted/2.7 56.170.220.183
+Transfer-Encoding: gzip
+Upgrade: ereinf/3.5, eEt0/2.9, zrTT/7.8, hta/4.0
+Warning: 827 195.166.47.193:1 "Ioantgeer1tmsd5ne" 
+X-Forwarded-For: 150.191.145.37
+X-Serial-Number: 03786
+----: ------------------------------
+~~~~~: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+null
+
+End - Id: 22128
+Start - Id: 25236
+class: Valid
+GET /19dsG0sn5/qx4D7-oFNhNryD/fJtquTOpBUeze/p4P1wnUp@ER3HF6TSg/6@sKm3eZK6hP1fgJsdtl/exe/bTMd-jDbuY@uKL4/ouan1sLv/xxylTJHIvIV.drop.8.html?G3ineanrQn72m=e9&a7oee=kilaonbaminl&rmlhc=834&xhhmdtron=11&pteai=+rb3%5C&2haomtawl=eand&Sf@J=stwu5aiElemoa&smiedch=iTieiyitOsruEic7ms&on=2078362&hr4eb2ydrrgja=ottz&biqs6e8moonhnxn=owttwees2Ct&naeg=Ephoid60iuu&P@TQtmpkd=3 HTTP/1.1
+Host: 159.139.133.71
+Connection: keep-alive
+Accept: application/*;q=0.2
+Accept-Charset: windows-1254, utf-7, x-mac-roman, iso-8859-5
+Accept-Encoding: 
+Accept-Language: *
+Cache-Control: as=oxso9az
+Client-ip: 52.177.201.122
+Cookie: ooA0dap=88941515;fsatibrwhra2vt=303701839;bt3DKMxE=4;liwsRfxej=eertk97qe
+Cookie2: $Version="146"
+Date: Thu, 17 Jul 08 06:22:44 CET
+ETag: W/"SU-2e_2W1Kw0ZPXx8"
+Expect: 100-continue
+From: k4NgNry@tf92Cos.be
+If-Modified-Since: Fri, 06 Feb 09 14:06:37 UTC
+If-Unmodified-Since: Thu, 16 Sep 04 17:48:15 UTC
+If-Match: *
+If-None-Match: "m-HQjq3M_@hJxD-ycAV"
+If-Range: *
+Max-Forwards: 4224
+MIME-Version: 3.2
+Pragma: c=w
+Proxy-Authorization: Digest algorithm=MD5
+Authorization: Digest algorithm=MD5-sess
+Range: 95085-,-05
+Referer: http://www.oyohhb.it/rosAu/hnvSeen/su2lp/aypT8sd/hse5oegt.jpg
+TE: trailers
+Trailer: Accept-Charset
+User-Agent: Mozilla/0.1 (X11; U; SunOS sun4u 7.9; ie-tw; rv:6.3.6) Gecko/75003227
+UA-CPU: PowerPC
+UA-Disp: 9408,4214,32
+UA-OS: Windows NT
+UA-Color: color8
+UA-Pixels: 765x9448
+Via: FTP/5.7 www.anis.js
+Transfer-Encoding: gzip
+Upgrade: 4DTm/7.9, 4nd/2.1, blaaL/7.8, bsr8r4/1.2
+Warning: 490 www.n7rtrte.htm "6nrmt" 
+X-Forwarded-For: 128.219.12.193
+X-Serial-Number: 06452699951846632
+----: -------------------------------------------------
+~~~~~: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+null
+
+End - Id: 25236
+Start - Id: 26680
+class: Valid
+GET /eBM2cU1lW/eFTD7AP_nk3.cfm?Trurienxaeiheoo=pupdatetisetIto2xare&K.evalpositionRQ=kHOt6Iwt&lsa7=blpositiontlsyi6h&eeoays6vantzc=vO5wev%40fr20W&ee1o=4956&woAjsrakk=8&t1c=myA%3E&cnltWooamaeooeg=tlPwgetbtsystem&reIol=nes&MshtpassD1kAK=%26+&St=aEk&0nrPeedi=ueweorv1sn&1a4turit5aa=etrpa HTTP/1.1
+Host: 154.12.30.211
+Connection: close
+Accept: application/x-tar;q=0.8, video/*;q=0.1, video/quicktime;q=0.1
+Accept-Charset: *;q=0.8
+Accept-Encoding: identity, compress;q=0.1, compress
+Accept-Language: 7arr-sKyCetln, nnh-voo;q=0.1, ie5y-sa9e;q=0.3
+Cache-Control: no-store
+Client-ip: 197.217.166.9
+Cookie: F6XBp=426867;.9E0sncQADwgetf=Ke<Tas;e4enaqnic=8102820;1freplacexmlc=1156631;sDH@Dv=iiizgmee;zbcmdj8kv=ltAkegliet
+Cookie2: $Version="6"
+Date: Fri, 06 Aug 04 22:13:15 CET
+ETag: "OXEwyJ.-XWo@BVK"
+Expect: l9B7meo=9eethcj
+From: aenrotes@hoereselr.be
+If-Modified-Since: Mon, 27 Jul 09 01:19:49 GMT
+If-Unmodified-Since: Tue, 10 May 05 05:34:17 UTC
+If-Match: "cHf1ZsTebDAUNYgRKgd"
+If-None-Match: *
+If-Range: *
+Max-Forwards: 7
+MIME-Version: 7.8
+Pragma: no-cache
+Proxy-Authorization: Digest response="24ebD5f3BCcCec4f689DAfd20DcADAf6"
+Authorization: itjr Trce7e=iofY
+Range: -931372,028-677
+Referer: http://www.Yd5l.ch/wpysjn8.asp
+TE: deflate,trailers
+Trailer: If-None-Match
+User-Agent: nn3i/8.6
+UA-CPU: PowerPC
+UA-Disp: 0736,120,8
+UA-OS: WinNT
+UA-Color: color32
+UA-Pixels: 190x433
+Via: 8.7 85.221.148.78, 1.5 90.238.121.206, 3.7 www.7sur.html
+Transfer-Encoding: deflate
+Upgrade: ottfS/3.5, uako/7.9, ttm/6.7, eol/3.3
+Warning: 647 www.73orh.js "6zehdei0repaoct" "Sun, 20 Nov 05 12:22:26 GMT"
+X-Forwarded-For: 27.113.189.139
+X-Serial-Number: 7904628
+----: -----------------------------------
+~~~~~: ~~~~~~~~~~~~~~~~
+
+null
+
+End - Id: 26680
+Start - Id: 11407
+class: Valid
+GET /ovAcVVo2p_oCUSrmH7G/eAC4X47DEpk/toq9dgdbsc7sxooMs/aeaMs/mdhJEB9F9EnAloa.dll?Teeo08l=jjrhwoIp-op&euEr8rad=c&uy=+nhxml&2dtrta9lhmypin=awb&siStad=tY7exhnsy&pENahayhs1=2%402ns%5D&Lr1xz8y99=06824601&ols0hoert=oriendemtikc&rjzrns=eyrdykeiC HTTP/1.1
+Host: www.gyoczpoen.gov
+Connection: pe5p0Ntj
+Accept: audio/*
+Accept-Charset: *
+Accept-Encoding: 
+Accept-Language: diD-UejehsjR, est8a-6heeioe;q=0.0, zmrt-z, p-n;q=0.6
+Cache-Control: max-stale=45489
+Client-ip: 70.90.100.107
+Cookie: hIi3=nntt;9hmeahtxjntLoh=nnd;zedlm=nofgra rr;nm6yetrudWd=fhbrlt3e;Kb.NIR=i2\i
+Cookie2: $Version="63"
+Date: Wed, 03 May 06 22:07:10 CET
+ETag: "Lc5f7Ww472E5lHHDC-iL"
+Expect: uqsxemm
+From: snso@neess.uk
+If-Modified-Since: Mon, 18 May 09 07:10:27 GMT
+If-Unmodified-Since: Sat, 31 Mar 07 12:08:23 UTC
+If-Match: "6SoDi-z5sCqt5h0og"
+If-None-Match: "GtU7.nBUQvBx-rG8"
+If-Range: *
+Max-Forwards: 5891
+MIME-Version: 4.6
+Pragma: no-cache
+Proxy-Authorization: vvE7 Aotiraig=rchah
+Authorization: iYev al11pen=asiR
+Range: -422,-567468,98305-
+Referer: /eaj7d/mcanw/tgstnai/D1clDo3/rOptsda.cgi
+TE: trailers
+Trailer: If-Range
+User-Agent: Mozilla/9.8 (Windows; U; Windows NT 5.8; nO-kh; rv:9.1.6) Gecko/54511064
+UA-CPU: Sparc
+UA-Disp: 9055,045,32
+UA-OS: Win95
+UA-Color: color32
+UA-Pixels: 380x1779
+Via: s6nas/1.5 www.onE7iut.png, gizxei/3.3 www.akcboe.jpg, o0c/7.4 154.87.222.234
+Transfer-Encoding: identity
+Upgrade: ahoel/3.1, wtEif/8.0
+Warning: 602 88.249.39.89 "aeraeytusrieOtkxPo" 
+X-Forwarded-For: 194.171.248.197
+X-Serial-Number: 99503371855760774661
+----: -------------------
+~~~~~: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+null
+
+End - Id: 11407
+Start - Id: 5438
+class: Valid
+PUT /gtm1ca4udeicv6tia.cfm? HTTP/1.1
+Content-Length: 90
+Content-Language: oe1,b,T1r
+Content-Encoding: gzip
+Content-Location: http://Odpuslu.com/iptp/44kr.nsf
+Content-MD5: OXNlc0huc3NoaG10dGlidA==
+Content-Type: application/x-www-form-urlencoded
+Expires: Mon, 25 May 09 09:19:27 UTC
+Last-Modified: Thu, 10 Aug 06 19:22:54 UTC
+Host: www.ZtaSt.ch:80
+Connection: keep-alive
+Accept: application/*, application/postscript, text/*
+Accept-Charset: *;q=0.8
+Accept-Encoding: 
+Accept-Language: Rt-Cgeree
+Cache-Control: only-if-cached
+Client-ip: 9.201.23.222
+Cookie: ci1rr0nsd=65;1ttictrkduPi8o=Jtsongjfweas;eIeCPA4v7lFB=i=a;zperl31Um8=27892;uona5nriGooie=%linktemocha<e<cmhtacces<nne wxh];hbPdy4on=evala7
+Cookie2: $Version="054"
+Date: Mon, 23 Jul 07 12:46:28 UTC
+ETag: "GdhQ7zVO5_wsjp1g"
+Expect: tbt2=enhoqa
+From: duemse@aiti.it
+If-Modified-Since: Wed, 23 Sep 09 22:31:51 UTC
+If-Unmodified-Since: Sun, 07 Oct 07 06:40:21 GMT
+If-Match: "ercKWFyC73sZFhQ"
+If-None-Match: "g4CRY-w_DxM-StbbM"
+If-Range: Mon, 07 Dec 09 15:41:40 UTC
+Max-Forwards: 721
+MIME-Version: 8.8
+Pragma: rehr='redi'
+Proxy-Authorization: Basic SWF6OWNyOmNlZk50
+Authorization: Digest nonce
+Range: 84-,-306723
+Referer: http://btyeqane.net/ehhnetse/pyn3nr/mAucetn/vtf2.tiff
+TE: trailers,trailers
+Trailer: User-Agent
+User-Agent: Mozilla/9.6 (compatible; MSIE 3.6; Linux i586; istyf; tieture9)
+UA-CPU: MIPS
+UA-Disp: 329,3885,32
+UA-OS: Win95
+UA-Color: color16
+UA-Pixels: 375x4615
+Via: HTTP/5.7 www.ZEio6.png
+Transfer-Encoding: compress
+Upgrade: RahN/5.1, tLrem/6.4, ett/3.2, iub/6.4, gni/3.3
+Warning: 648 www.miheezn.jpeg "dtnwn8Ibraihenesvqow" "Wed, 13 Jul 05 15:04:04 GMT"
+X-Forwarded-For: 180.40.114.160
+X-Serial-Number: 20359821901
+----: --------------------------------------
+~~~~~: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+7aafaahs0l1ed3s=oudHcrssimsIH&5cGcmdGmqperlAV3=otincludeunion9rr&eih=cFW&FmYpopt96DWedN=35
+
+End - Id: 5438
+Start - Id: 16927
+class: Valid
+GET /ektF@w/tQlAyX1uv.4kj@HH4ae/nd8kt0PMigg/tbesshlmtk/5roqivutari/eA/nv7DTPKxFQwCJOjj/39d/idrueuAekdSeiloceo/h4qAvIz/343.msf? HTTP/1.0
+Host: 145.248.116.31:80
+Connection: close
+Accept: audio/*;q=0.7, text/*;q=0.2
+Accept-Charset: cp-936;q=0.5
+Accept-Encoding: 
+Accept-Language: e-1dutur7o, ln-w, exmu-woTf;q=0.2
+Cache-Control: bhrod7=aaoe
+Client-ip: 113.190.209.120
+Cookie: mDJzQX=ota e;Eutn=403
+Cookie2: $Version="36"
+Date: Wed, 24 Jun 09 02:46:31 CET
+ETag: W/"4NVYid-mZK783WAOQIm."
+Expect: etn3eon
+From: Teqasoh@Osflq.de
+If-Modified-Since: Tue, 10 May 05 05:47:40 CET
+If-Unmodified-Since: Thu, 07 Sep 06 18:45:58 CET
+If-Match: *
+If-None-Match: "1E@idu9l67@.P9KMVF"
+If-Range: "rW@KY8JAKnbIbMR7_"
+Max-Forwards: 81
+MIME-Version: 2.3
+Pragma: no-cache
+Proxy-Authorization: ilera ftnruhuo=doFpte
+Authorization: NTLM OW8yZXhUeE5lbWlzU25mZEVwdTFobWFUcnZkMzl0bzFpc3Rocm9yNDZ0bmdvdA==
+Range: -0120,-1864,5-
+Referer: http://nleops.biz/9oiseo/osatsa/9aimite/Nheuc/lneoatw.mspx
+TE: trailers,chunked;q=0.3
+Trailer: Expect
+User-Agent: snr7sa/9.2.8.8.9
+UA-CPU: 68000
+UA-Disp: 220,157,16
+UA-OS: FreeBSD
+UA-Color: color8
+UA-Pixels: 581x0277
+Via: HTTP/2.7 6.85.33.253
+Transfer-Encoding: deflate
+Upgrade: dHed/7.3, olnnat/3.7, o5p/0.1, wnMa/3.1, arrnc/1.6
+Warning: 857 163.225.188.126 "yherr" "Tue, 27 Jan 09 20:54:03 UTC"
+X-Forwarded-For: 91.82.248.105
+X-Serial-Number: 736542
+----: --------------------
+~~~~~: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+null
+
+End - Id: 16927
+Start - Id: 23746
+class: Valid
+GET /ItflesAtunuebg7enupm/2-RSx50l88lrN-zEjG/cxUHRDBVzZyyXY6/n7knHYvDLC-ODE_0q54/tenxea93ossleTp/br9.css?shraeHrqarS8i=Pb&zdh0aaegulOe=559&98Bbetweencopy-wvTZ6X=343&0fiTfr8hOtsb=5285742050&ajalo0ndeueou=28&6aRrnourMe=pSs%2Bd&inroUoeptauoia=yU0k3&iytW7ossbt=133&anwvrpvAai=MM2ii&iSmsAmmwJo=hWgroup+bydgroup+by%7Cuise%3Cboeval&tezEnrdcrreRbsj=hoEt2harerawgu&f0esrl2olte4=012715&eym=cwRvexaa4UXU&rbphh7Lgmihqov9=139745 HTTP/1.0
+Host: 25.149.70.205:80
+Connection: he7Esz
+Accept: */*
+Accept-Charset: *
+Accept-Encoding: 
+Accept-Language: *;q=0.9
+Cache-Control: only-if-cached
+Client-ip: 162.99.120.131
+Cookie: uisafhfw=8;doeqitcauaai=07587;Hrilodbet9=norrncqn4ahicAco;PlNlikepo-6D=dcR6HEdPM.;r86ida3no0n=samh;rietnoRArnen=809
+Cookie2: $Version="79"
+Date: Wed, 28 Apr 04 17:21:08 UTC
+ETag: "uhuVGtTX8ksUIS7R3"
+Expect: tteedng=e8dtDpe
+From: tddnc@aNensle3pe.org
+If-Modified-Since: Sun, 15 Jun 08 12:37:12 UTC
+If-Unmodified-Since: Fri, 27 Jun 08 06:07:24 CET
+If-Match: *
+If-None-Match: *
+If-Range: Tue, 04 Nov 08 18:30:06 GMT
+Max-Forwards: 94
+MIME-Version: 1.5
+Pragma: no-cache
+Proxy-Authorization: NTLM YTJ2Y2Vtc29wdGF1bWZlaWRtaGUxZmVvc2RvdHdnYUFpcg==
+Authorization: NTLM azZhcmF0dzZkQXBzdHJyWTFzY21sN2h0ZWxTdGN1ZXVjbmVScg==
+Range: 20-,-643631
+Referer: http://www.ae1am.cz/oeatoma/stdfl/ealgsrh/ogr5loo.gif
+TE: gzip;q=0.7,trailers
+Trailer: Pragma
+User-Agent: Mozilla/9.3 (X11; U; Open BSD i586 7.0; nO-ut; rv:0.1.8) Gecko/30120843
+UA-CPU: 68000
+UA-Disp: 431,022,8
+UA-OS: WinNT
+UA-Color: color8
+UA-Pixels: 431x276
+Via: HTTP/7.9 www.iftETbi.tiff:08, 8.8 187.56.26.209, 8.6 235.177.110.5
+Transfer-Encoding: deflate
+Upgrade: tsle8/1.2, avnaa/3.6, nir/9.8, si08b9/0.9
+Warning: 616 236.84.201.63:6956 "o9alpen0" 
+X-Forwarded-For: 96.18.53.61
+X-Serial-Number: 13224
+----: -------------------------------------------------
+~~~~~: ~~~~~~~~~~~~
+
+null
+
+End - Id: 23746
+Start - Id: 23599
+class: Valid
