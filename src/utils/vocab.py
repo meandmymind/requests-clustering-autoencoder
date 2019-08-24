@@ -10,7 +10,7 @@ class Vocabulary:
     """
     def __init__(self):
         self.vocab_file = os.path.dirname(os.path.abspath(__file__)) + '/vocab.json'
-        self.max_input_seq_length = 50
+        self.max_input_seq_length = 75
         self.max_vocab_size = 105
         self.vocab_size = 0
         self.char2idx = None
